@@ -1,0 +1,15 @@
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+
+# Core utilities
+tqdm==4.70.1
+Pillow==13.0.0
+
+# Configuration and environment variables
+python-dotenv==1.2.4
+
+# Command-line interface
+typer==0.27.3
+
+# Data validation and metadata
+pydantic==2.14.2
